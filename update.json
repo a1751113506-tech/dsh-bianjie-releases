@@ -1,13 +1,13 @@
 {
   "schema": 2,
   "app": {
-    "version": "2.6.0",
-    "versionCode": 20600,
+    "version": "2.7.0",
+    "versionCode": 20700,
     "url": "https://github.com/a1751113506-tech/dsh-bianjie-releases/releases/latest/download/dsh-bianjie-full.apk",
     "page": "https://github.com/a1751113506-tech/dsh-bianjie-releases/releases/latest"
   },
   "hot": {
-    "version": "2.6.0-t2-sp0",
+    "version": "2.7.0-t2-sp0",
     "url": "https://github.com/a1751113506-tech/dsh-bianjie-releases/releases/latest/download/dsh-bianjie-hot.zip",
     "manifest": "https://raw.githubusercontent.com/a1751113506-tech/dsh-bianjie-releases/main/update.json"
   }
